@@ -1,9 +1,12 @@
- body {
+ body, html {
     height: 100vh;
+    margin: 0;
 } 
 
 .banner { 
     height: 100%;
+    background-color: lime;
+    /* padding: none; */
 }
 
 .projects {
@@ -21,8 +24,8 @@
     /* max-width: 100%; */
     margin: auto;
     overflow: hidden;
-    padding: 4rem 1rem;
-    border: solid;
+    /* padding: 4rem 1rem; */
+    /* border: solid; */
     text-align: center;
     display: grid;
     grid-gap: 20px;
