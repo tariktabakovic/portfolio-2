@@ -86,3 +86,10 @@ h3 {
     right: 20%;
     top: 25%;
 }
+
+p {
+    font-size: 20px;
+    position: absolute;
+    right: 18%;
+    top: 35%;
+}
