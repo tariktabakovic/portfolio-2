@@ -49,6 +49,8 @@
 h1 {
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
 }
 
 .vl {
@@ -81,15 +83,15 @@ img {
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 35px;
     position: absolute;
     right: 20%;
-    top: 25%;
+    top: 30%;
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
     position: absolute;
-    right: 18%;
-    top: 35%;
+    right: 17%;
+    top: 40%;
 }
