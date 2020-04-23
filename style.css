@@ -79,3 +79,10 @@ img {
     left: 15%;
     top: 25%;
 }
+
+h3 {
+    font-size: 30px;
+    position: absolute;
+    right: 20%;
+    top: 25%;
+}
