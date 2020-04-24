@@ -90,6 +90,11 @@ img.profilepic {
     top: 25%;
 }
 
+img.beatsbymepic{
+    padding-top: 1px;
+    border-radius: 10px;
+}
+
 h3 {
     font-size: 35px;
     position: absolute;
