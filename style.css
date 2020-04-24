@@ -40,7 +40,7 @@
     display: grid;
     grid-gap: 20px;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
 }
 
 /* .center {
@@ -66,15 +66,21 @@ h1 {
 
 .beatsbyme{
     border: solid;
+    background-color: #ffffff;
+    border-radius: 10px;
     /* background-color: rgb(135, 138, 140); */
 }
 
 .whoisgrandmaster{
-    border: solid
+    border: solid;
+    background-color: #ffffff;
+    border-radius: 10px;
 }
 
 .anotherproject{
-    border: solid
+    border: solid;
+    background-color: #ffffff;
+    border-radius: 10px;
 }
 
 img.profilepic {
