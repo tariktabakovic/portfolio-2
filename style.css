@@ -19,7 +19,7 @@
 
 .skills {
     height: 100%;
-    background-color: greenyellow
+    background-color: #f8f8ff;
 }
 
 /* .grid {
@@ -137,6 +137,12 @@ a:hover {
 
 a.contact{
     color: red; 
+}
+
+.logos{
+    justify-items: center !important;
+    margin: 0 auto; 
+    width: 35%;
 }
 
 .devicon-javascript-plain{
