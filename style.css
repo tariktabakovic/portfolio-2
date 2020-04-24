@@ -77,7 +77,7 @@ h1 {
     border: solid
 }
 
-img {
+img.profilepic {
     height: 300px;
     position: absolute;
     left: 15%;
@@ -132,5 +132,37 @@ a {
 }
 
 a:hover {
-    background-color: grey
+    color: grey
+}
+
+a.contact{
+    color: red; 
+}
+
+.devicon-javascript-plain{
+    font-size: 4rem
+}
+
+.devicon-react-original-wordmark{
+    font-size: 4rem
+}
+
+.devicon-css3-plain-wordmark{
+    font-size: 4rem;
+}
+
+.devicon-html5-plain-wordmark{
+    font-size: 4rem;
+}
+
+.devicon-nodejs-plain-wordmark{
+    font-size: 4rem;
+}
+
+.devicon-express-original-wordmark{
+    font-size: 4rem;
+}
+
+.devicon-github-plain-wordmark{
+    font-size: 4rem;
 }
