@@ -136,7 +136,7 @@ a {
     margin: 15px;
     background-color: #f8f8ff;
     color: black;
-    padding: .5em 1em;
+    padding: .5em .5em;
     text-decoration: none;
     text-transform: uppercase;
     border-radius: 10px
