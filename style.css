@@ -228,6 +228,7 @@ a.contact{
 
 @media(max-width: 568px){
     .nav{display:none}
+    .profilepic{display:none}
 }
 
 @media(min-width: 568px){
