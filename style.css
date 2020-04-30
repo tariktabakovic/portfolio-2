@@ -32,7 +32,7 @@
     height:80%;
     width: 100%;
     /* max-width: 100%; */
-    margin: auto;
+    margin: 5px;
     overflow: hidden;
     /* padding: 4rem 1rem; */
     /* border: solid; */
@@ -86,9 +86,10 @@ h1 {
 
 img.profilepic {
     height: 300px;
+    /* float: left; */
     position: absolute;
-    left: 15%;
-    top: 25%;
+    left: 15%; 
+    top: 25%; 
 }
 
 img.beatsbymepic{
@@ -227,6 +228,12 @@ a.contact{
     width: 100%;
 }
 
+
+
+@media(max-width: 1024px){
+    .profilepic{display:none}
+    .vl{display:none}
+}
 @media(max-width: 568px){
     .nav{display:none}
     .profilepic{display:none}
